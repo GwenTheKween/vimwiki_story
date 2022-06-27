@@ -1,6 +1,6 @@
 = Recovering the Croft Estate =
 
-A sandbox campaign for D&D 5e, designed to get my wife into TTRPGs.
+A sandbox campaign for Call of Cthulhu, designed to get my wife into TTRPGs.
 
 This campaign was greatly inspired by the game Darkest Dungeon in general idea and tone, and the details by the campaign Dungeons of Drakkenheim - by the Dungeon Dudes.
 
@@ -10,7 +10,7 @@ Pitch for the players: Lara Croft - one of the players - found documents for the
 
 == Setting ==
 
-The base setting of this adventure is Khean (My homebrew world), but any low-magic setting would do. Preferably, people wouldn't know much about magic, as this is partially a cosmic horror setting, but it is possible to have a science-y type character learn magic once on the island, and play a wizard/sorcerer, or have a native of the island who has already learned the secrets of _rock from space_ (TM) based magic join the crew after they arrive.
+The base setting of this adventure is Khean (My homebrew world), but any low-magic setting would do.
 
 About the island itself: it is the island to the north west of the capital, Wodfics. It used to house a small hamlet along with the Croft "Mannor" (which is more of a castle, really), until most inhabitants left, in the Croft Diaspora. The few that survived created a small community of druids and rangers, which have around 15 to 20 people left.
 
@@ -19,6 +19,7 @@ About the island itself: it is the island to the north west of the capital, Wodf
 The only set parts of the adventure are the start and the very end.
 
 The [[start.wiki|start of the adventure]] is the Croft Crew going to the island. I would consider the start over when a camp is set close to the Hamlet.
+  This would get the player acquainted with the main antagonistic faction: [[lore/wayland.wiki|Wayland Inc.]]
 
 The [[end.wiki|end of the adventure]] is achieved when the crew stroms the Croft mannor, fighting the final boss and either die trying to reclaim the mannor, or they do reclaim and the rebuilding process can start for real. This should end at or around level 7.
 
