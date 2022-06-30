@@ -1,0 +1,9 @@
+= Cog Puzzle =
+
+This is a somewhat simple puzzle, that is probably going to get used as the framing device for other, smaller puzzles
+
+This puzzle is a reskin of "collect n plot coupons" and progress at its simplest. The reskin asks for cogs to be added to a machine, so that motion can be transfered and a door opens, or water flow is changed or something
+
+To make this somewhat more interesting, some physics can be added, such as having the cogs be the incorrect number making the thing run to the incorrect location, or needing more power or something.
+
+A well thought out section can probably use a few physics-based things to make a single puzzle central room be the solution to 3 or 4 puzzles.
