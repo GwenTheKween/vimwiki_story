@@ -50,11 +50,26 @@ At the start of the game, there are 3 main misteries:
 2. What happened to the father?
 3. Why is the Rowan's guild?
 
+=== Point 0: Starting condition ===
+
+Killian went to fight on the king's side to represent his clan. He did quite well for himself and turned into the captain of a group of recruits (other players).
+
+Some time in between, Killian was accused of stealing the artifact gloves that the guild used to use. Ulfred went in to take the artifact he had a right to use, and noticed that the gloves were missing. The only people allowed to enter that room are the ones woh earned an artifact, and the only living person who could is Killian - because of his hammer.
+
 === Point 1: Prison Break ===
-This gives the player some idea of mystery 1, but not the full answer
+Killian is introduced to the idea that his father died in an expedition to Giant country.
 
-=== Point 2: Into the Giants territory ===
-This will answer mystery 2 and give some insight on mystery 3
+When being interviewed by Ulfred on stealing the relics, Ulfred will drop the bombshell that this is "common knowledge" as if killian was supposed to know. If asked for details, he'll mention that it was on the giant's side, he can take him there, if Killian wants some time to think. All he needs to do is join the rebels, "give back the gloves" and they can arrange a nice trip for him to say goodbye.
 
-=== Point 3: The puppet Master ===
-This will give definitive answers to mysteries 1 and 3.
+=== Point 2: The traitor's side ===
+This plot point will be completed once Killian is able to get the story out of Ulfred, Lyle and Roy.
+
+Lyle was an army medic, and her heart burns for the loss of life from a mindless war against giants, who are also people. She wants the war over, and knows nothing of the horrors from Elmaer
+
+Ulfred is fully aware of the Robbespierre-like style of Elmaer, but he knows that some people can't have their mind changed, and thinks that it maybe be a bit extreme, but it works better than what the king is doing.
+
+Roy was aligned with the rebels at first, but switched to the neutrals once he understood how Elmaer dealt with reasonable criticism. He wants needless death gone, both from a warmongering king and from a crazy revoltionary.
+
+=== Point 3: Into the Giants territory ===
+To complete this plot point, they will need to do some investigation to figure out the story behind what happened to the father, they need to visit the grave and retrace the steps that they took after it, to learn about the peace treaty.
+
