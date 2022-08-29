@@ -2,11 +2,11 @@
 
 Player: Binario
 Class: Warlock
-Final Item: [[items/crows_mask.wiki|Crow's Mask]]
+Final Item: [[../items/crows_mask.wiki|Crow's Mask]]
 Auxiliary items:
-* Lv 1: [[items/dark_crystal_visor.wiki|Dark Crystal Visor]]
-* Lv 2: [[items/necklace_of_secrets.wiki|Necklace of the Brotherhood of Secrets]]
-* Lv 3: [[items/ethereal_shard.wiki|Ethereal Shard]]
+* Lv 1: [[../items/dark_crystal_visor.wiki|Dark Crystal Visor]]
+* Lv 2: [[../items/necklace_of_secrets.wiki|Necklace of the Brotherhood of Secrets]]
+* Lv 3: [[../items/ethereal_shard.wiki|Ethereal Shard]]
 
 Family:
 * Agatha Verstec, alive and well?

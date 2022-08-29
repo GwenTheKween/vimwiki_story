@@ -2,11 +2,11 @@
 
 Player: Van Loon
 Class: Fighter (Eldritch Knight)
-Final Item: [[items/hammer_thunderbolts.wiki|Hammer Of Thunderbolts]]
+Final Item: [[../items/hammer_thunderbolts.wiki|Hammer Of Thunderbolts]]
 Auxiliary items:
 * Lv 1: Regular +1 Hammer
-* Lv 2: [[items/gauntlet_lightning.wiki|Gauntlets of Lightining Control]]
-* Lv 3: [[items/belt_giant.wiki|Belt of Giant's Bane]]
+* Lv 2: [[../items/gauntlet_lightning.wiki|Gauntlets of Lightining Control]]
+* Lv 3: [[../items/belt_giant.wiki|Belt of Giant's Bane]]
 
 NPC relations:
 * Arielle de Rowan - Mother, close-ish

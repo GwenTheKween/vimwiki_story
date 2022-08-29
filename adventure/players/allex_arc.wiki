@@ -2,11 +2,11 @@
 
 Player: Rafael
 Class: Paladin
-Final Item: [[items/halberd_holy_avenger.wiki|Halberd, Holy Avenger]]
+Final Item: [[../items/halberd_holy_avenger.wiki|Halberd, Holy Avenger]]
 Auxiliary items:
-* Lv 1: [[items/|dunno yet]]
-* Lv 2: [[items/|dunno yet]]
-* Lv 3: [[items/|dunno yet]]
+* Lv 1: [[../items/|dunno yet]]
+* Lv 2: [[../items/|dunno yet]]
+* Lv 3: [[../items/|dunno yet]]
 
 Important NPCs:
 * , Priest at Nerwer's Church
