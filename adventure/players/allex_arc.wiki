@@ -1,0 +1,51 @@
+= Allex Mensen =
+
+Player: Rafael
+Class: Paladin
+Final Item: [[items/halberd_holy_avenger.wiki|Halberd, Holy Avenger]]
+Auxiliary items:
+* Lv 1: [[items/|dunno yet]]
+* Lv 2: [[items/|dunno yet]]
+* Lv 3: [[items/|dunno yet]]
+
+Important NPCs:
+* , Priest at Nerwer's Church
+* , Dwarven family.
+
+== Backstory ==
+
+When Allex was a child, his village was completely destroyed by undead. He was saved by an unknown person, who seemed to be wearing some form of green scaled armor. This person put allex on a small boat, told the kid to remain lying down until there was no water anymore, and pushed the boat off-shore.
+
+Allex next woke up on an unknown beach, where dwarves lived. He was raised as a dwarf - and being a human he was able to consume rocks as well, though he also needed owlbear or rust monster meat at some points - and was taught in the mountain dwarf ways. He learned how to fight, that he should be penitent to the gods, and that although his God was different, they were still family, same as the kid and his dwarven bretheren.
+
+At one point in his life, <Allex dreamt of the knight who saved his life, pleading for his help in the upcomming fight> (<- up to debate with Rafael, if he had a different idea); Perplexed with this dream, as gods used to speak with regular people, he decided to follow his calling, came back to human country and pledged his allegiance to Llhuma. The dwarves weren't stoked, but they don't bear ill will to him.
+
+After a little time of the civil war brewing, Allex was sure he was an adventurer and should participate, so he went to enlist to the king's army.
+
+=== Explanations ===
+
+Farat Jahlad was already experimenting with controlling undead when Allex was a kid. Because of some poor wording, his undead underlings ended up destroying Allex's village. Farat thought it was a shame but shouldn't stop his attempts, as there could be much quality of life gained from it, that's why he continues to use them.
+
+The "green knight" was actually keleshtinuss, also known as Belodaed. He is heralded as the bringer of evil, but he is instead just against the methods of his family. He called Allex to help with stopping the Civil War, fighting on Jahlad's side to stop bloodshed. Belodaed has nothing against undead like his mother, Llhuma.
+
+== Plot Points ==
+
+At the start of the game, there is one main misteries:
+1. What happened to his village?
+2. Who was the green knight? <- subject to change
+
+=== Point 1:  ===
+
+By fighting a series of undead in the first mission, Allex called Llhuma's attention to himself as one of her warriors, and getting her guidance.
+
+At this point, Allex's Halberd is a +1 weapon.
+
+=== Point 2:  ===
+
+Allex finds Belodaed and gets a decent explanation to the meaning of his dream. At this point, Allex must choose if he will follow Belodaed's directions, or if he will deny this information.
+
+The item gained will be the same, but it will have slightly different effects.
+
+=== Point 3:  ===
+
+At this point, Allex will either have one final fight against Farat Jahlad, who will have the help of Belodaed (though not directly), or fight Llhuma.
