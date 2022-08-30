@@ -1,0 +1,36 @@
+= Holy Avenger Halberd =
+
+Weapon (Halberd), Legendary, 1d10 Slashing damage - Heavy, reach, two-handed
+
+You gain a +3 bonus to attack and damage rolls made with this magic weapon. When you hit a fiend or an undead with it, that creature takes an extra 2d10 radiant damage.
+
+While you hold the halberd channeling your God, it creates an aura in a 10-foot radius around you. You and all creatures friendly to you in the aura have advantage on saving throws against spells and other magical effects. If you have 17 or more levels in the paladin class, the radius of the aura increases to 30 feet.
+
+== Unresponsive ==
+
+This is an ornate halberd, with a scaly motif on the blade, and a stylized drawing of a moon morphing into a skull on the center.
+
+== Dormant ==
+
+After the paladin has killed their first undead and called upon Llhuma's guidance, she will infuse the weapon with a will to battle
+The weapon seems to have a will of its own, and actively seeks out opponents. Mechanically, it is a +1 weapon.
+
+== Awakening ==
+
+Once the player can channel the powers of the Gods through the [[amulet_of_devotion.wiki|Amulet of Devotion]], this weapon turns into a +2 weapon.
+
+Additionally, when attacking a fiend or undead, the Amulet of Devotion lets out a breath of radiant force, that deals 2d10 extra damage to the target.
+
+=== Amulet === 
+
+Gives +1 to hit and to spell save DCs for paladin spells.
+
+== Complete ==
+
+Once the player has mastered the beast form of the [[circlet_of_lycanthropy.wiki|Circlet of Lycanthropy]], this weapon turns into a +3 weapon.
+
+Additionally, the weapon emits an aura of protection, and allies within 10-feet of you have advantage on saving throws against all magical effects.
+
+=== Circlet ===
+
+Allows you to Rage as if a barbarian on the path of the Beast. You turn into either a werewolf - if devoted to Llhuma - or a wereowlbear - if devoted to Bealodaed. This is purely flavor.

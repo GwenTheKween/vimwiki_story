@@ -1,0 +1,14 @@
+= Circlet of Lycanthropy =
+
+Wolf Variant:
+This circlet is made of finely crafted steel, braided all around. in the forehead, it bulges out slightly with the shape of a muzzle, and roughly over each ear the circlet bends upwards to make the shape of a wolf's ear
+
+Owlbear Variant:
+This circlet is made out of finely crafted steel, braided all around. The braids are reminiscent of outlines of feathers, and over the users forehead, the circlet seems to make the shape of an owl's beak.
+
+while attuned to this circlet, the user may enter a bestial rage once per day, by invoking the power of the deity that gifted this circlet. While in this enraged state, the following happens:
+* Your body shifts to me a mixture between human and the animal corresponding to the circlet's variant (wolf or owlbear).
+* You gain resistance to slashing, bludgeoning and piercing damage.
+* you gain a climbing speed equal to your walking speed, and you can climb difficult surfaces without making an ability check.
+* When you use divine Smite, all opponents take the additional damage as if they were undead or fiends.
+* You may not cast spells or use the Lay on Hands class feature while in beast form

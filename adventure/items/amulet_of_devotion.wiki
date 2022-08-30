@@ -1,0 +1,5 @@
+= Amulet of Devotion =
+
+This is a small brooch in the shape of a dragon, with its head facing forwards.
+
+While wearing this brooch, you get a +1 to spell attack rolls and spell save DCs for all paladin spells.
