@@ -4,9 +4,9 @@ Player: Rafael
 Class: Paladin
 Final Item: [[../items/halberd_holy_avenger.wiki|Halberd, Holy Avenger]]
 Auxiliary items:
-* Lv 1: [[../items/|dunno yet]]
-* Lv 2: [[../items/|dunno yet]]
-* Lv 3: [[../items/|dunno yet]]
+* Lv 1: N/A
+* Lv 2: [[../items/amulet_of_devotion.wiki|Amulet of Devotion]]
+* Lv 3: [[../items/circlet_of_lycanthropy.wiki|Circlet of Lycanthropy]]
 
 Important NPCs:
 * , Priest at Nerwer's Church
@@ -44,7 +44,7 @@ At this point, Allex's Halberd is a +1 weapon.
 
 Allex finds Belodaed and gets a decent explanation to the meaning of his dream. At this point, Allex must choose if he will follow Belodaed's directions, or if he will deny this information.
 
-The item gained will be the same, but it will have slightly different effects.
+The item gained will be the same.
 
 === Point 3:  ===
 
