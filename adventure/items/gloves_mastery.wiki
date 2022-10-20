@@ -1,0 +1,3 @@
+= Gloves of Master =
+
+When using a battle master maneuver while wearing the gloves of mastery, your superiority die size increases by one (from d8 to d10, or d10 to d12).

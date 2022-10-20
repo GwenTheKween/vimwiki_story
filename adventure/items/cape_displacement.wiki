@@ -1,0 +1,7 @@
+= Cape of Dimensions =
+
+This cape has 2 charges.
+YOu may expend one charge to cast blur on yourself.
+You may expend 2 charges to cast dimension door.
+
+both charges are returned at the next dawn.

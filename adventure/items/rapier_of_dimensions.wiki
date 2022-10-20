@@ -1,0 +1,31 @@
+= Rapier of Dimensions =
+
+Weapon (Rapier), Legendary, 1d8 piercing damage
+
+== Unresponsive ==
+
+This rapier is a rapier.
+
+== Dormant ==
+
+It now becomes a +1 rapier.
+
+== Awakening ==
+
+The Rapier of dimensions reaches this state when the wielder is in posession of the [[items/cape_displacement.wiki|Cape of displacement]]. It becomes a +2 rapier
+
+When in this state, the sword can slash the dimensions more finely and accurately. All warlock spell slots cast using this weapon as a focus are one level higher.
+
+=== Cape === 
+
+2 charges: 1 charge, cast blur on yourself, 2 charges cast dimension door. recharge on dawn.
+
+== Complete ==
+
+The rapier gets in this state when the owner is using the [[items/gloves_mastery.wiki|Gloves of Mastery]]. The rapier becomes +3.
+
+When in this state, the wielder may use a superiority dice to influence any ability check or saving throw. This can be used after rolling the dice but before the result is known.
+
+=== Glove ===
+
+All superiorty dies are 1 size higher.
