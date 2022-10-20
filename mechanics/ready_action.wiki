@@ -1,0 +1,5 @@
+= Readied action =
+
+When you choose to delay an action, you define a trigger, such as "when an opponent walks through the door" or similar.
+
+Once the trigger happens, you may use your reaction to take a full action right after the trigger happens.
