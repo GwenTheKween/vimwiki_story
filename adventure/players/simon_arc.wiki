@@ -1,0 +1,65 @@
+= Simon Gehilden =
+
+Player: VVilliam
+class(es): Warlock 2, Fighter 3
+Final Item: [[../items/rapier_of_dimensions.wiki|Rapier of Dimensions]]
+Auxiliary items:
+* Lv 1: N/A
+* Lv 2: [[../items/cape_displacement.wiki|Cape of Displacement]]
+* Lv 3: [[../items/gloves_mastery.wiki|Gloves of Mastery]]
+
+Important NPCs:
+* Lyle Gehilden, sister, disappeared.
+
+== Backstory ==
+
+Simon and Lyle were in an adventuring camp at <far island, not sure yet>, when they found a hidden cave. Instead of reporting back and leaving with a search party, they decided to just go and see what they would find.
+
+When reaching the end of the cave, they found a magical sword. Lyle ran in front of Simon, grabbed the sword and stopped. She said something, did some twirls with her sword and disappeared. Simon has ben looking for her ever since.
+
+=== Explanations ===
+
+The cave they found was a place where walls of the demiplane were a bit softer. From this location, a sufficiently advanced civilization could travel to the other side of the world.
+
+The sword they found was used by a group of beings as a way to manipulate the space between planes, and the cave was a small shrine for it. (Temple of Dragon Knights prte-made adventure).
+
+Once Lyle got the sword she accidentally slit through the weak spot and fell into the in-between space. The wall behind her closed, as no one was holding it open, and Lyle continued forward, ending up in Kobold country at the other side of the world.
+
+== Plot Points ==
+
+1. Where is Lyle?
+2. What was that temple?
+
+=== Point 1:  ===
+
+Searching for information on the sword or the temple will unlock some information, the sword will be in the Dormant state once it is found.
+
+If the player goes for the Wizard's university, he won't find much information, but he will find the following. A successful arcana roll from Killian can also get one of the facts:
+* The sword does not do any sort of arcane magic. There are no channels to let energy go through and allow for manipulation of the materials, the ones that exist seem to disperse the energy, if anything.
+* The creatures are unknown. Though human lizard hybrids have been seen before, they usually have scaly skin, not leathery.
+* 
+
+If the player goes to the church he learns. Allex can get one of these points from a successful religion roll:
+* The creatures sound like the first creature that Bealodaed created.
+* Scholars have theorized that dragons may have been how Gods looked, and Bealodaed created creatures after his image, part of the reason why he was disowned.
+* The sword is not mentioned in any real scripture, nor in any herectical text. Therefore, the only way it would channel power from gods is through prayer from the user.
+
+If the player goes to the warlock hideout, or asks Sarah (with a successful Arcana roll), he learns:
+* The sword is incredibly built, so it is able to cut through the borders of planes. This is where the magic of the sword comes from.
+
+The knowledge about the sword triggers the +1 increase after a training montage.
+
+=== Point 2:  ===
+
+In this plot point, Simon learns about the significance of the temple he has seen, and has some insight on what may have happened to his sister.
+
+To get full information, Simon needs to exfiltrate a piece of information from each of the 3 factions:
+* Neutral: This is where they'll get information on DImension theory. Taking it to the brotherhood of shadows to be decyphered can lead them to think that the temple is a weak spot
+* King: This is where they get information on dragons.
+* Rebels: This is where they get access to the Cape of Displacement, and exact infomration on the location of the cave.
+
+=== Point 3:  ===
+
+To finish this, Simon has to rescue his sister and possibly fight Bealodaed.
+
+They must go to the cave, probably by chartering or comandeering a boat, and explore kobold country.
