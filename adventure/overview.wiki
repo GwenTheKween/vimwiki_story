@@ -1,0 +1,35 @@
+= Sweet Nightmares = 
+
+A small GURPS campaign about trying to find safety in a brainwashed world.
+
+== The pitch ==
+
+Picture this: Out of nowhere, you wake up in the middle of town. It almost feels like you were sleepwalking, as you are in the middle of town, but you do have hazy memories of the last few days, doing everyday things at odd hours, trying and failing to sleep, and having unimportant things done. No one around you reacts when you try to call them, they all look very thin, and even you are hungry, now that you think about it. Only 2 or 3 people seem even aware of what is going on, and you want to figure out how to survive whatever is going on.
+
+== Background ==
+
+Aliens came to earth about 2 weeks ago. These aliens are Silicon-based lifeforms, who came here searching for more carbon to create steel. Because organic chemistry is complicated, they restrict themselves to collecting oil, which can be easily burned to generate CO2 and everntually used with iron.
+
+Since much of the carbon here is not in the convenient form, they decided to try and control the humans (who were using those good oils), and stole all easily accessible source of oil from Humans. This led to 2 important details for the adventure: All of the oil-based things are useless, and all humans have been brainwashed. The aliens, however, care not for humans life (in fact, the faster all life dies, the better), so Aliens got the very basics of what a human routine seems to look like, and don't take care for making humans eat edible things, or actually rest, just laying down in beds and closing their eyes.
+
+== Campaign structure ==
+
+=== First Session ===
+
+Players will wake up on a very small town, hungry, hurt and tired. Probably the first session will be focused on fixing the direct consequences of this, attempting to gather enough food to solve the hunger and the immediate problems of their hurt. It should probably end with players deciding to hit the road to somewhere a bit more full of resources - probably Rio do Sul.
+
+To mark the starting conditions, players start at 1/3FP + 1. Players can recover all but 3 points regularly, the last require good meals.
+
+Some of the possible injuries are:
+* Heaving shits - Disease
+  Each cycle takes 6 hours, player takes 1 HP and 1d/2 FP
+  Maximum of 8 cycles.
+* Sprained ankle - harm
+  Start the game with 2/3 HP. Speed is halved and skill checks made with the legs are made with -3+successes (max. 0)
+  Healing: twice per day, roll HT. After 5 successes, the sprain is healed. If medicine is successfully applied to it, roll with +3
+* Sprained wrist:
+  Start the game with half HP. Skill checks that use the hurt hand are done with -2 + sucesses.
+  Healing: Twice per day, roll HT. After 4 successes, the sprain is healed. If medicine is successfully applied to it, roll with +3
+* Back hurts:
+  Start the game with 2/3 HP. Carry capacity is down to 0.7 maximum
+  Healin: Once per day, roll HT. After 2 successes, it is back to normal. If medicine is sucessfully applied, roll with +3
