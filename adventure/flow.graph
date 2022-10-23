@@ -1,0 +1,39 @@
+digraph {
+  forcelabels = true
+  rankdir="TB"
+
+  a[label="Start letter and deed"];
+  b[label="Library"];
+  c[label="Home"];
+  d[label="Followed"];
+  e[label="Accosted"];
+  f[label="Invaded home"];
+  g[label="Get journal and map"];
+  h[label="Tense negotiations"];
+  i[label="Police arrives"];
+  j[label="loses map"];
+  k[label="negotiating at the door"]
+  y[label="Rich gets Richer,\nwe move on"]
+  z[label="We need to know what is going on"]
+  
+  a -> b [label="Research why Cornelius left"]
+  a -> c [label="Start with puzzle"]
+  b -> d [label="Returning"]
+  d -> e [label="Noticed and confront OR fail library"]
+  d -> c [label="Not noticed or not confronted"]
+  e -> f [label="failed library"]
+  e -> c [label="Agreed to sell, lose deed,\nthey might want to buy map"]
+  c -> g [label="solve puzzle"]
+  f -> g [label="solve puzzle unnoticed"]
+  f -> h [label="Solve puzzle noticed"]
+  f -> i [label="Call police"]
+  i -> c [label="Makes an enemy"]
+  g -> j [label="Decided to sell map"]
+  h -> j [label="_gracefully_ allowed to keep journal"]
+  g -> k [label="Never found any enemy"]
+
+  k -> y [label="Don't wanna continue"]
+  j -> y [label="Don't wanna continue"]
+  k -> z [label="Does wanna continue"]
+  j -> z [label="Does wanna continue"]
+}
