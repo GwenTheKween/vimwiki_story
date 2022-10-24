@@ -1,0 +1,42 @@
+graph {
+  rankdir="LR"
+
+  oeste[label="Rio do oeste"];
+  pouso[label="Pouso redondo"];
+  sul  [label="Rio do sul"];
+  lontras [label="Lontras", comment="Seguindo rio, bastante agua"]
+  itu [label="Ituporanga", comment="longe do rio, bastante comida"]
+  apiuna [label="Apiuna", comment="Possibilidade de usar rafting"]
+  indaial [label="Indaial", comment="God knows"]
+  blumenau [label="Blumenau", comment="Big city"]
+  botuvera [label="Botuvera", comment="Cavernas"]
+  brusque [label="Brusque", comment="not sure"]
+  floripa [label="Florianopolis", comment="Final spot"]
+  itajai [label="Itajai", comment="porto"]
+  balneario [label="Balneario Camboriu", comment="porto e cidade grande"]
+
+  taio -- oeste [label="estrada"]
+  taio -- pouso [label="estrada"]
+
+  oeste -- sul [label="estrada"]
+  pouso -- sul [label="estrada"]
+
+  sul -- lontras [label="estrada"]
+  sul -- itu [label="estrada"]
+
+  lontras -- apiuna [label="estrada"]
+  apiuna -- indaial [label="estrada"]
+  apiuna -- blumenau [label="rio"]
+  indaial -- blumenau [label="estrada"]
+  blumenau -- brusque [label="estrada"]
+  blumenau -- botuvera [label="atravessa o parque"]
+  blumenau -- itajai [label="estrada, com cavalos"]
+
+  itu -- botuvera [label="estrada"]
+  botuvera -- brusque [label="estrada"]
+  brusque -- floripa [label="estrada"]
+
+  itajai -- balneario [label="estrada"]
+  balneario -- floripa [label="estada"]
+  itajai -- floripa [label="barco"]
+}
