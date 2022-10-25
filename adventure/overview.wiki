@@ -22,14 +22,18 @@ To mark the starting conditions, players start at 1/3FP + 1. Players can recover
 
 Some of the possible injuries are:
 * Heaving shits - Disease
+  
   Each cycle takes 6 hours, player takes 1 HP and 1d/2 FP
   Maximum of 8 cycles.
 * Sprained ankle - harm
+
   Start the game with 2/3 HP. Speed is halved and skill checks made with the legs are made with -3+successes (max. 0)
   Healing: twice per day, roll HT. After 5 successes, the sprain is healed. If medicine is successfully applied to it, roll with +3
 * Sprained wrist:
+
   Start the game with half HP. Skill checks that use the hurt hand are done with -2 + sucesses.
   Healing: Twice per day, roll HT. After 4 successes, the sprain is healed. If medicine is successfully applied to it, roll with +3
 * Back hurts:
+
   Start the game with 2/3 HP. Carry capacity is down to 0.7 maximum
   Healin: Once per day, roll HT. After 2 successes, it is back to normal. If medicine is sucessfully applied, roll with +3
