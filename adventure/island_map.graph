@@ -1,0 +1,30 @@
+graph{
+  compound = true;
+
+  c1 [label="", style=invisible, height=0, width=0];
+
+  b [label="Beach"];
+  f [label="Forest"];
+  v [label="Village"];
+  m [label="Meteor"];
+  d [label="Monster Den"]
+
+  b -- v
+  v -- f
+  v -- c1 [ltail="clusterc1"]
+  c1 -- f [lhead="clusterc1"]
+  f -- m [label="Secret"]
+  f -- d
+
+  subgraph clusterc1 {
+    c1
+    s [label="Secret basement"];
+    h [label="Hall"];
+    l [label="Library"];
+    k [label="Kitchen"]
+
+    h -- l
+    l -- s
+    h -- k
+  }
+}
