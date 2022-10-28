@@ -44,3 +44,44 @@ Basnished Aline:
 * Backstory:  
   Aline isn't a believer, she was just using the the cult to get free supplies while she tried to find her son. When she found and awakened him, the cult decided to banish Aline for her sins, and send Roberto back to "heaven".  
   She is sure this is a death sentence, but will join one of the conspiracy groups.
+
+== Alien Truthers ==
+
+A group of people are hidden in the caves of Botuvera believe that the real reason for the mesmerizing is aliens doing it. They decided to hide in a place far for civilization and wait for the aliens to decide to leave.
+
+They don't think that the aliens will destroy the whole world, just that they'll collect some stuff and go back home, so they don't plan on being self sustaining.
+
+=== Commmandments ===
+
+1. You shall avoid big groups of people as much as possible (be far away from cities)
+2. You shall not leave alone. Big groups are preferred.
+3. You must share all available resources. It is only worth it if all people survive.
+4. People can't be trusted, make as little reference as possible to the group.
+
+=== NPCs === 
+
+Lucio: Lider
+* Signs:
+    * Mind: Air
+    * Mouth: Air
+    * Eye: Air
+* Backstory:  
+  Lucio is an incel. He is very sexist and defensive of his position. Lucio is knee deep into all sorts of pseudo science and conspiracy people. Lucio believes in homeopathy.  
+  He woke up because of his own anxiety when talking to a girl.
+
+Rolf: Medico
+* Signs:
+    * Mind: Fire
+    * Mouth: Water
+    * Eyes: Air
+* Backstory:  
+   Rolf is a short tempered, but very skilled, doctor. He has setup a pretty good makeshift doctor spot, since he can't continue on the city.  
+   Rolf bickers endlessly with Lucio, but trusts his senses.
+
+Aline: Just joined
+* Signs:
+    * Mind: Water
+    * Mouth: Fire
+    * Eyes: Air
+* Backstory:  
+  Check the religion. After being banished from Rio do Sul, Aline went south, bumped into Rolf and hearing that (they think) this is temporary, felt comforted and decided to stick around. It's better than dying anyway
