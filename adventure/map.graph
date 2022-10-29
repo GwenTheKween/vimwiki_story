@@ -1,0 +1,27 @@
+digraph map {
+  c [label="cave"]
+  l [label="lighthouse"]
+  k [label="keeper's house"]
+  b [label="starting beach"]
+  w [label="Well"]
+  d [label="Dungeon"]
+  t [label="Town"]
+  tt [label="Tavern"]
+  tf [label="Fish market"]
+  tc [label="Church"]
+  tu [label="University"]
+
+  b -> l [dir="both"]
+  b -> k [dir="both"]
+  b -> c [label="murder on day 1", dir="both"]
+  c -> d
+  d -> b
+
+  b -> t [dir="both"]
+  w -> d
+  t -> w [label="inside"]
+  t -> tt [label="inside"]
+  t -> tf [label="inside"]
+  t -> tc [label="inside"]
+  t -> tu [label="inside"]
+}
