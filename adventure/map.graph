@@ -16,6 +16,7 @@ digraph map {
   b -> c [label="murder on day 1", dir="both"]
   c -> d
   d -> b
+  l -> k [dir="both"]
 
   b -> t [dir="both"]
   w -> d
