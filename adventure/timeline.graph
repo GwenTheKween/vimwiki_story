@@ -1,0 +1,76 @@
+digraph timeline {
+  rankdir="LR"
+  compound=true;
+
+  t1 [label="Day 1", height=0, width=0, shape=plaintext];
+  t2 [label="Night 1", height=0, width=0, shape=plaintext];
+  t3 [label="Day 2", height=0, width=0, shape=plaintext];
+  t4 [label="Night 2", height=0, width=0, shape=plaintext];
+  t5 [label="Day 3", height=0, width=0, shape=plaintext];
+  //subgraph nodes:
+  //tXcity -> city at the given time
+  //tXcabin-> keeper's cabin, close to the lighthouse
+  //tXligh -> Lighthouse
+  //tXcave -> the cave or trek towards the cave
+
+  subgraph clustert1{
+    t1
+    t1cabin[label="Lighthouse keeper's\ncabin timeline"]
+    t1light[label="Lighthouse timeline"]
+    t1cave [label="Cave timeline"]
+    t1city [label="City timeline"]
+  }
+  subgraph clustert2{
+    t2
+    t2city [label="city is iluminated by a bonfire\nKuo-Toa Whip are comming from the well"]
+    t2cabin[label="Odd footprints can be seen\naround the cabin.\nTakes you to the muder"]
+    t2light[label="Chuul completely breaks the\nmachinery of the lighthouse.\nSome potions lootable"]
+    t2cave [label="Murder on the way.\nHermit is nursing his wounds\nfrom the fight"]
+  }
+  subgraph clustert3{
+    t3
+    t3city [label="Kuo-toas using umbrellas\nFish market is bustling with activity.\nTemple has priests attempting to heal Kuo-toing."]
+    t3cabin[label="All the tools required to fix\nlighthouse are here.\nfootprints still there"]
+    t3light[label="Many potions broken.\nLightkeeper diary available."]
+    t3cave [label="Hermit takes the Chuul to cave.\nHe is trying to understand\nwhat is going on."]
+  }
+  subgraph clustert4{
+    t4
+    t4city [label="Temple trying to get as many healthy ppl in.\nAnother big bonfire/celebration.\nTavern is full of Kuo-toa after."]
+    t4cabin[label="The fires from the Hermit are visible.\nNight trek is hard."]
+    t4light[label="Second and third stage trying to find hermit.\nThey looking for a fight."]
+    t4cave [label="Hermit is getting ready to fight."]
+  }
+  subgraph clustert5{
+    t5
+    t5city [label="City feels somewhat deserted.\nKuotoa gathering in the dungeon to fight the temple.\ntemple preparing for a last ditch defense"]
+    t5cabin[label="many footprints everywhere,\nvery easy to get to hermit."]
+    t5light[label="only journal to be found,\nexplaining the transformation."]
+    t5cave [label="Hermit and some kuo-toa dead.\nClearly a chuul was in the fight."]
+  }
+
+  t1 -> t2
+  t2 -> t3
+  t3 -> t4
+  t4 -> t5
+
+  t1city -> t2city
+  t1cabin-> t2cabin
+  t1light-> t2light
+  t1cave -> t2cave
+
+  t2city -> t3city
+  t2cabin-> t3cabin
+  t2light-> t3light
+  t2cave -> t3cave
+
+  t3city -> t4city
+  t3cabin-> t4cabin
+  t3light-> t4light
+  t3cave -> t4cave
+
+  t4city -> t5city
+  t4cabin-> t5cabin
+  t4light-> t5light
+  t4cave -> t5cave
+}
