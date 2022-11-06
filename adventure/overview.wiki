@@ -1,0 +1,22 @@
+= Mouth Island =
+
+== Explanations ==
+
+An aboleth parked itself close to the well of the town. The mucus that the aboleth produces slowly starts to transform humans into sea creatures.
+
+The transformations take a  week for each stage.
+Stage 1 makes people look a little like they have a skin disease, as if the skin was peeling from a bad sunburn or something - use Kuo Toa stat block.
+Stage 2 makes people have bulging eyes and a very pale and callous skin - Use kuo toa monitor (AC 11) stat block.
+Stage 3 Finishes the transformation, making the skin actually made out of scales. Use the Kuo Toa whip stat block with AC 13 (sacred flame - 2d8).
+
+The aboleth has a couple of Chuuls that are guarding it, from the last island it has transformed. The chuuls got hold of a few fishermen and dragged them to the cave under the well, and once the mind control took effect, the fishermen started feeding the mucus to other people through the fish.
+
+The church, using spells that cure disease, managed to keep themselves healthy. After a bit of time, they figured out that there was something going on with the whole island, and started tracking the most ill citizens, and figured out that fishermen were behind it.
+
+The lighthouse keeper has seen something odd in the water on the first day. He went to the cave where the aboleth was starting to make his home on the first night, while chuuls were busy force feeding fishermen and the aboleth was too weak to fight him. He then became the Hermit.
+
+== Starting locations ==
+
+At the start of the adventure, they are gathering info on fishermen, and are close to discovering that the well is behind it all.
+
+The hermit is moving all of his stuff to a nearby cave. He wants to just hide while things are happening, but will want to fight after the chuul comes after him on the first night.
