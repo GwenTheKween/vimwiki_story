@@ -1,0 +1,7 @@
+= Flavor for teleportations =
+
+Arcane magic in this world is mostly similar to electric circuits. there are analogous to resistors, capacitors and inductors. Magic users are equivalent to a transistor, using a small amount of magic power to conduct a lot of the surrounding magic through their circuits, hence hocus pocus.
+
+A teleportation ring is one specific circuit constructed to have a very specific ressonance, and users can teleport to these circles by broadcasting the same ressonance frequency. If a magic user is powerful enough, they may be able to do it by hand, but most users would have some sort of tuning fork that generates that frequency when hitting a hard surface, and just a continuous influx of magical energy  is necessary to make the circle work.
+
+With an appropriately tuned fork (cost of 250 gp), it can be used as the material for Teleportation Circle and it won't be consumed, but is only able to take the user to the properly attuned circle.
