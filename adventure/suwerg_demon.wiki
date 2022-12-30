@@ -1,6 +1,8 @@
 = Demon in Suwerg =
 
-The city of Suwerg is being attacked by a [[monsters/cambion.wiki|Cambion]]. It is summoning [[monsters/imp.wiki|imps]] to cause more trouble.
+== Overview ==
+
+The city of Suwerg is being attacked by a Cambion. It is summoning all sorts of demons to cause mayhem on the town.
 
 Once the players get there, it will look at the Warlock and pretend like it is the warlock's fault.
 
@@ -13,6 +15,58 @@ Agatha knows:
 1. final scraps of research, that Sarah still can't understand
 2. What happened to the father* (the start of the story)
 3. the mask. Where it is from and where the lens is.
+
+== Details ==
+
+=== Zimmermann farm ===
+
+situated at the north entrance of the town. It is usually ran by Ralf Zimmermann, but he was killed and now the Cambion is impersonating him. Ralf was known to be very anti-warlocks back then, but if he sees the players, he'll be pretty welcoming, despite knowing about Sarah.
+
+The farm has 4 hellhounds roaming in it, eating the sheep every once in a while. If Ralf sees the players fighting the hellhounds, he'll pretend to try to help, by throwing rocks at a distance, but purposefully weakly.
+
+Random encounters:
+
+1. only one dice resulted in 1: Players catch a glimpse of the Cambion, who might notice them. If he notices, he'll try to leave sight and transform into Ralf
+2. 2 dies result in 1: Players find Ralf, who welcome them, and seem excited to have adventurers there to deal with the demons. He seems to be especially excited about Sarah and Simon. He might mention the hellhounds.
+3. 3 dies result in 1: players see the hellhounds hunting sheep. They are focused on the sheep, if players decide to just leave them alone. If they leave, they'll pass by Rolf, who might ask for help.
+4. all dies are 1s: Players are ambushed by the hellhounds. if they fail a perception check, they'll be attacked with surprise.
+
+=== Other farm ===
+
+To the west exit of the village, there is another farm, focused on plant farming, mostly pinhao and mandioca.
+
+There are 3 spined devils roaming around the pinhao trees, eating some and showering passer-bys with their tail spines.
+
+Encounters:
+1. single 1 rolled: players find the owner of the farm, who asks for help. He is a regular joe, and is wary of Sarah.
+2. 2 or 3 results of 1 rolled: Players see the demons at a distance. They can decide on how to approach, if they want to approach.
+3. all ones: players are ambushed by the spined devils.
+
+=== Old witch's tower/lighthouse ===
+
+This is the old observation tower that used to warn of elf invasions when the war was still ongoing. This is where people were locked up in Sarah's time. It is abandoned now, because all warlocks left the city in some way or another.
+
+This tower was coincidentally built on a planar weak spot, which is why there were so many warlocks in Suwerg. It is also where the Cambion was summoned. Rolf was killed here, players may find his body close to the dimensional rift. Touching the rift deals 2d6 acid damage.
+
+Players can find the badge of the secret police lost in the floor, but it looks years old.
+
+=== Tavern: The sheep's horn ===
+
+Food prices are outrageously high right now, as the demons are stopping people from collecting the food from the farms. If the players ask, they'll explain the demon attacks. 
+
+A couple of adventurers took the rooms that the tavern had to offer. One group got there pretty early, and said that they'd take care of the problem, but in the end all they can do is get food for the city to not starve. The other said they'd help, but no one ever seen them fighting any demons or actually helping.
+
+Update: Now that the demon has been defeated, the Fanged Lizard will be leaving, opening up space for the other adventurers, if they wish.
+
+=== Group: The Fanged Lizard ===
+
+Two of the members are on the Other Farm, pillaging enough food for another day. The owner of the farm is not being compensated at all, just hiding and hoping to be alright.
+
+The third member is hiding in the way to the old lighthouse, casting fear on all people attempting to get to it. If discovered, he'll cast dimension door to leave, and the group will leave.
+
+=== Group: Jahlad's Freedom FIghters ===
+
+They are currently attempting to explore the lighthouse, but are unable to get there. What they end up doing is attempt to figure out why, which they come to the conclusion that is due to imps using Fear spells.
 
 == Explanation ==
 

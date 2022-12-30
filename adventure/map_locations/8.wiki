@@ -10,6 +10,8 @@ Bonus: Easier access to spell components and minor magic items
 
 This part of the city is full of magical students, and it is where they usually buy components for their studies, as well as make some money on the side making easy projects like simple scrolls and potions. It has become more dangerous though, as many robberies ending in murder have been happening.
 
+This is also where the Brotherhood of secrets stands. They will say that the rumors of violence is an exageration. 
+
 Neighbours:
 * [[3.wiki|Training Grounds]]
 * [[7.wiki|Wizard suburbs]]
