@@ -28,10 +28,10 @@ Players neeed to figure out the location of the HQ which is in: <insert descript
 
 === Investigation ===
 
-1. Meet with guards: Similar to meet with contacts, is a quick and risk free way to get information. Does not increase heat
-2. Talk with civilians: Increase the heat level by 1
-3. Confrontation in the streets: increase heat by 1, 
-4. Meeting Rebels in the streets: Increase by 1
+* Meet with guards: Similar to meet with contacts, is a quick and risk free way to get information. Does not increase heat
+* Talk with civilians: Increase the heat level by 1
+* Confrontation in the streets: increase heat by 1, 
+* Meeting Rebels in the streets: Increase by 1
    
 Information bigs:
 * from guards: A lot of the B&E complaints come from other Dungeon Dragoons who attempted to make advanced outposts.
