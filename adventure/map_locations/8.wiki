@@ -8,7 +8,7 @@ Current Faction: Jahlad's Ghosts
 
 Bonus: Easier access to spell components and minor magic items
 
-This part of the city is full of magical students, and it is where they usually buy components for their studies, as well as make some money on the side making easy projects like simple scrolls and potions. It has become more dangerous though, as many robberies ending in murder have been happening.
+This part of the city is full of magical students, and it is where they usually buy components for their studies, as well as make some money on the side making easy projects like simple scrolls and potions.
 
 This is also where the Brotherhood of secrets stands. They will say that the rumors of violence is an exageration. 
 
@@ -22,11 +22,26 @@ Dirt: This district should raise questions about Elmaer's allies, as some scryin
 
 == Quest ==
 
-Because this area is no longer safe, civilians will be happy to see either army, and ask for help about the dangers of the night.
-This is mostly a linear quest overtaking a small bandit hideout, with them mostly using necromantic magic.
+This quest is inspired by "Krenko's Way". The commander of the neutral HQ is Timothy. While investigating or moving around, the players must roll for a random encounter, and depending on the heat level the final fight will have more backup.
 
-As thanks, students will pool resources to make the following items:
+Players neeed to figure out the location of the HQ which is in: <insert descriptor here>z
+
+=== Investigation ===
+
+1. Meet with guards: Similar to meet with contacts, is a quick and risk free way to get information. Does not increase heat
+2. Talk with civilians: Increase the heat level by 1
+3. Confrontation in the streets: increase heat by 1, 
+4. Meeting Rebels in the streets: Increase by 1
+   
+Information bigs:
+* from guards: A lot of the B&E complaints come from other Dungeon Dragoons who attempted to make advanced outposts.
+* From civilians: People mostly feel ok, but you dont wanna look suspicious close to the maintenance tunnels.
+* Confrontation with neutral: The enemies will be carrying a warehouse key and a maintenance tunnel key.
+* Rebels: They were sent to hit the tunnels looking for the Ghost's HQ. if the players dont engage, the ghosts will hit them up, run away and draw them to an ambush. Players will likely lose them, or be drawn to the fight.
+
+=== Rewards ===
+
+The Ghost's warehouse has the following rewards
 * 6x healing potions
 * 2x scrolls of shield
 * Potion of hill giant strengh
-You may also hear them talking about the problematic allies of the rebels
