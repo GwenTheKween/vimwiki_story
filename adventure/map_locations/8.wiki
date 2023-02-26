@@ -24,7 +24,22 @@ Dirt: This district should raise questions about Elmaer's allies, as some scryin
 
 This quest is inspired by "Krenko's Way". The commander of the neutral HQ is Timothy. While investigating or moving around, the players must roll for a random encounter, and depending on the heat level the final fight will have more backup.
 
-Players neeed to figure out the location of the HQ which is in: <insert descriptor here>z
+| Heat level | encounter |
+| ---------- | --------- |
+|     0      |    d12    |
+|     1      |    d10    |
+|     2      |    d8     |
+|     3      |    d6     |
+|     4      |    d4     |
+
+If any of the players rolls a 1, a random encounter happens. The more 1s rolled, the worse the enconter is. If an encounter has been used up, use a worse version if available:
+
+1. Valerie shows up, warning the players that this area is dangerous. She doesn't really explain, just citing the increase of crime reports to the guards. She will disappear using one of the tunnels ia a deadend alley.  
+2. A group of rebels appear to try and control the region. See investigation  
+3. A group of ghosts attempts to steal their supplies, they'll take 1 healing potion from each.  
+4. A group of ghosts pickpocket the players and run to a deadend, from which other thugs ambush the players.  
+
+Players neeed to figure out the location of the HQ which is in a warehouse close to the market, and they use some maintenance tunnels to move unnoticed.
 
 === Investigation ===
 
@@ -33,11 +48,30 @@ Players neeed to figure out the location of the HQ which is in: <insert descript
 * Confrontation in the streets: increase heat by 1, 
 * Meeting Rebels in the streets: Increase by 1
    
-Information bigs:
+Information bits:
 * from guards: A lot of the B&E complaints come from other Dungeon Dragoons who attempted to make advanced outposts.
 * From civilians: People mostly feel ok, but you dont wanna look suspicious close to the maintenance tunnels.
 * Confrontation with neutral: The enemies will be carrying a warehouse key and a maintenance tunnel key.
 * Rebels: They were sent to hit the tunnels looking for the Ghost's HQ. if the players dont engage, the ghosts will hit them up, run away and draw them to an ambush. Players will likely lose them, or be drawn to the fight.
+
+Statblocks:
+* The rebel party consists of: A Bard (stats of mind mage, add rapier and vicious mockery) and 2 knights
+* If the players are pickpocketed and fight, they are against a Master Thief and a 3 bandit captains.
+* If the players are led to the deadend, they follow a Master Thief (with shield of faith) and are jumped by 2 cult fanactis and a backup of 2 Ogre Skeleton (regular humans with greatswords)
+
+=== The Tunnels ===
+
+Every time the players try to brave the maze of corridors that form the maintenance tunnels, have them all roll a d8. choose the smallest number that isn't a 1 or an 8, and select the enconter from the table below. If the roll a 1, they are noticed, otherwise they can try to surprise the enemies or walk away. If they roll an 8, they found the warehouse.
+
+2-3. A gelatinous cube that contains 2 ogre skeletons inside. They are released once the cube dies.  
+4-5. A black pudding stuck to the ceiling
+6-7. A cult fanatic leading 3 undead soldiers.
+
+=== Warehouse ===
+
+The HQ of the ghosts is located in a warehouse that is seemingly not in use anymore. The only door and all windows are boarded up. they can be broken down but all people in the warehouse will be warned. 
+
+To be fully planned soon.
 
 === Rewards ===
 
