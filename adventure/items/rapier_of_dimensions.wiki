@@ -2,23 +2,25 @@
 
 Weapon (Rapier), Legendary, 1d8 piercing damage
 
+This is a rapier whose blade is engraved with a jagged version of the Dragon Curve.
+
 == Unresponsive ==
 
 This rapier is a rapier.
 
 == Dormant ==
 
-It now becomes a +1 rapier.
-
-== Awakening ==
-
 The Rapier of dimensions reaches this state when the wielder is in posession of the [[items/cape_displacement.wiki|Cape of displacement]]. It becomes a +2 rapier
 
-When in this state, the sword can slash the dimensions more finely and accurately. All warlock spell slots cast using this weapon as a focus are one level higher.
+It now becomes a +1 rapier.
 
 === Cape === 
 
 2 charges: 1 charge, cast blur on yourself, 2 charges cast dimension door. recharge on dawn.
+
+== Awakening ==
+
+When in this state, the sword can slash the dimensions more finely and accurately. All warlock spell slots cast using this weapon as a focus are one level higher.
 
 == Complete ==
 

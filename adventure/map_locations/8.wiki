@@ -61,6 +61,8 @@ Statblocks:
 
 === The Tunnels ===
 
+Thanks to the dreamwalking, the players will only not need to roll the random encounters, they can just move. However, if they decide to short rest, the opponents will setup the gelatinous cube in the way.
+
 Every time the players try to brave the maze of corridors that form the maintenance tunnels, have them all roll a d8. choose the smallest number that isn't a 1 or an 8, and select the enconter from the table below. If the roll a 1, they are noticed, otherwise they can try to surprise the enemies or walk away. If they roll an 8, they found the warehouse.
 
 2-3. A gelatinous cube that contains 2 ogre skeletons inside. They are released once the cube dies.  
@@ -71,7 +73,15 @@ Every time the players try to brave the maze of corridors that form the maintena
 
 The HQ of the ghosts is located in a warehouse that is seemingly not in use anymore. The only door and all windows are boarded up. they can be broken down but all people in the warehouse will be warned. 
 
-To be fully planned soon.
+When entering, there is a Glyph of warding in the square right after the door. If the players are aware of it, they can use 5ft extra of movement to walk through it without hitting it.
+
+The adventurers controlling the wareouse were:
+* Enzo, a Master Thief
+* Victoria, a Scholarly mastermind with changed spells. It can cast chill touch (2d8) twice per turn; can change one of the cantrips to vampiric touch or ray of enfeeblement, once each.
+  If the players rest before going, Victoria will setup a Glyph of Warding with ray of enfeeblement in the door itself, and she can only use vampiric touch
+* Ruby, an Immortal Lotus Monk.
+
+There are also 10 skeletons moving things around in the warehouse, they use improvised clubs.
 
 === Rewards ===
 
@@ -79,3 +89,7 @@ The Ghost's warehouse has the following rewards
 * 6x healing potions
 * 2x scrolls of shield
 * Potion of hill giant strengh
+
+As for lore:
+the players find a report of an archaeological exploration that found an obelisk with a curious pattern  <handout>. It details that all muscles who touched it were instantly gone, but any inorganic matter was fine. The Ghosts are sure that there is some important secret hidden in this obelisk, but they can't see it.
+Another report talks about recent movements of rebel troops, spies seem to have heard of rebels mentioning of big backup showing up soon. The report suggests that the food market may need to be raided soon so Ghosts can have access to both gates and maybe hit the supplies of the rebels.
