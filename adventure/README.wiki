@@ -1,0 +1,198 @@
+= Dread Island =
+
+A system agnostic[0] investigation one shot.
+
+A cthulean entity (Aboleth, if you're playing D&D 5e) has parked close to a small island in an adjacent plane. It managed to rupture a small hole into our plane, out of it an avatar of itself managed to squeeze through and start producing the mind controlling mucus. The residents of this island have started consuming the mucus and many are under total Aboleth control, the town is about to perform a complex ritual that will bring the Aboleth into our reality when the players show up.
+
+[0] While it isn't specifically tied to any system, it is being dfeveloped thinknig specifically of CoC or D&D 5e. While combat encounters might need adjusting, the same concept should wrk well enough with any mystery-focused system.
+
+== The Lore ==
+
+The entity has recently parked itself by the island (in an adjacent plane) and using all of its strength, it punched a hole into our reality, out of which is managed to pass a larva through. This larva started producing a mind-controlling mucus that was too thick for fish to breathe through, making them suffocate and be easy catches. Jonas Wake, an older fisherman found those easy catches and started bringing them home to himself to eat. Upon eating the fishes (and the mucus around them) he fell under control of the Entity, and started seling the fishes with the mucus around town, stopping his fishing runs and only collecting those fishes. Soon after, the head of the town's church was afflicted and eventually turned his church into a place of worship of the Entity. More and more people started following once Father Damian said he heard the voice of god speaking to him, and as the town ate more and more of the contaminated fish.
+
+The people who were contaminated seemed to develop some sort of skin issue. It seemed to create rashes in parts of the body, that almost lokked like shed skin. The disease also seems to cause hair loss, as many people (regardless of gender) lost great amounts of hair. All afflicted persons go to the church every night. At first they have something resembling mass, but in an unknowable language. They are actually communicating the next steps of the plans for the ritual. Once the "mass" part is over, the crowd is split into 3 small groups, one goes to the light house, one goes to the Church's basement and one stays at the main church area, each working on a part of the ritual. THe remainder of the people go home.
+
+The Mayor of the town doesn't often stay in town but he returned to collect the taxes and noticed that the people were plagued. Once he noticed people around him, he shut himself in his house minimizing contact with the "afflicted", and called for help. However, he's starting to develop symptoms in his belly. He is starting to feel compelled to go to church, even going so far as "sleep walking" towards the key to his house. After waking up 5 steps away from his door he resorted to freezing his key in water to not be able to reach it.
+
+== The Map ==
+
+The island is composed of a small town, a pier with an attached fisher's market, a lighthouse, and the beach where the players washed up in
+
+It has roughly a crescent moon shape, with high rocks delimitating an internal bay from which the fishermen's boats leave.
+
+=== The beach ===
+
+Situated in the opposite side to the bay, this beach has huge waves as it is fully exposed to the ocean. The beach itself is quite small, enclosed on both sides by large deposits of rocks, and those along with the huge waves have already broken the life boat (if made of wood) or the small sharp rocks that make up the beach floor ruptured it (if a floatie).
+
+=== The town ===
+
+Situated on one of the extremes of the island, it is quite small. The following buildings/landmarks are in the city:
+
+1. minute hotel: combo'd with restaurant and pub, its the only source of night entertainement of the city, and where the players may take refuge.
+   In here players can find Christine at all hours, and most NPCs that roam the city at dinner time
+2. Small church: Clearly christian in origin, this church has been changed to serve the Entity. It is the opening to the Dungeon, should the players not take the "shortcut".
+   The altar of the church seems to be a hastily constructed table, made from driftwood. On top sits an idol of a fish being held up by 4 of its tentacles.
+   If the players move up to examine, it is easy to see that there was probably some other altar here, and this is a new addition, based on scratch marks on the floor and an uneven sun decay pattern.
+3. Well: At the center of the island players can find a well-like formation. Looking down, they'll see a big pool or reasonably still water. The cave under this well is opened to the bay.
+   Players can find Jonas here catching fish near dawn time.
+   If the players ask, this well used to bring salt water, but was useful for general cleaning of things, since river water is imported form mainland.
+   If the players try to drink the water, they'll notice it is much more viscous than salt water, tastes somewhat sweeter than expected, and might be under the spell of the aboleth for some time.
+4. Mayor's house: A small mansion, this huge house has an overgrown garden on the back and doesn't seem to be used all that often
+5. If modern: Small medical clinic. There is a GP/nurse who takes care of the village. She has been affected by the disease, finds nothing odd about the rashes/hair loss.
+6. Engineer's workshop: He was stationed to take care of the lighthouse and ended up enjoying the place so much that he lives here now
+   The engineer is responsible for making the mechanism in the small lighthouses. The lighthouses are in his house.
+   
+   
+=== The pier ===
+
+This area has clearly not been used for some time. Some docks have missing boats, whose knots seem to have come undone and no villager noticed. There are still 3 boats firmly attached.
+
+One of the boats is clearly of Jonas. There is a picture/portrait of him with his trusty whale bone pipe. It is the bigger boat in the pier, but still not very impressive. Of note, there are the following items:
+* A bucket full of the mucus (looks like water) with perfectly conserved fish inside
+
+The other 2 boats only have regular fishing items, nothing of interest.
+
+On the way to back to the town, the players pass by an assortment of 5 tents, all of which have fishermen silently staring forward with fishes on the counter (not on ice) waiting for customers.
+if the players try to touch one of the fish, or look closely, they'll notice there is some sort of mucus around the fish.
+
+=== The lighthouse ===
+
+(If medieval setting) Outfitted with a smart fly-wheel mechanism, it is able to spin a mirror around a campfire at a reasonably steady rate.
+
+When going towards the lighthouse, the fire seems to be extinguished, though once close enough, people can see that the mechanism is still working. When looking at the top of the lighthouse, the campfire can be seen to be lit, but it is ecnased in some form of dark translucent crystal, that turns the light of the campfire into shining darkness. The crystal itself seems to be many waves frozen in place, and it is more or less finished, depending on how close the players are to the ritual.
+
+== The Ritual ==
+
+It is divided into 3 parts: the servants, the lair and the creature.
+
+The ritual itself is being headed by the Cult Leader (Jonas) and performed by 4 cult fanatics. All cult fanatics are already bald, the "skin disease" has completely taken their faces. They are dressed in ceremonial robes and carry a fishing spear with a coil of rope on their backs.
+
+The ritual will happen at the underground beach attached to the bay. The sea is where one of the walls of the cave would be, and it is fully open to the full moonlight. At the beach, there is a marble altar that was probably stolen from the church, with a big model of the cave itself in it. even to the point of a small region with water, gently rocked back and forth by nothing, perfectly mimmicking the waves at the real beach.
+
+=== The Servants ===
+
+This part of the the ritual aims to mimick the effects of a lighthouse. The 4 cultists have lights that they will spin around as they intonate chants. As the chant goes on, the lights appear to dim until it seems as if they are instead shining darkness, all while rotating the lights over their heads in sync with the lighthouse. The lighthouse itself was prepared with transparent logs with eldritch carvings on them. When the ritual starts, the central cultist will light the lighthouse at a distance. The cultists will light smaller versions of the lighthouse, then hand crank it in sync with the lighthouse. After a turn, the this part is done.
+
+If something was done to the lighthouse that will make the ray of darkness not spin around (either no longer ray of darkness or broken system) this part of the ritual is broken and the cultists remain human. If they disrupt the miniature lighthouse it also spoils the ritual.
+
+After a full rotation, the darklight wil focus on the face of the culist, and they'll finish their transformation.
+
+* If you're playing Pathfinder 2e: The cultists will be showered with mucus, finishing their transformations into Ulat-kini
+* If you're playing D&D 5e: The cultists turn into Kuo Toa Monitor
+
+=== The Lair ===
+
+2 of the cultists will pick the miniature and slowly lower it into the vat of the mucus. At the same rate that they're lowering the miniature, the mucus will start rising in the ground, first in the pit, then in the regular floor. After 5 turns, the whole cave will be undermucus.
+
+If the players manage to drain the vat, the ritual is disrupted harmlessly. If the minitaure is dropped, they will slow down phase 3, but the whole cave will be underwater. If they break the miniature after the ritual starts, the cave itself will start to crumble.
+
+Activate any hazards, roll sanity if running Call of Cthulhu.
+
+=== The Creature ===
+
+One turn after the lair is ready, the remaining 2 cultists will use the eldritch spear to fish out a catfish-looking fish form the rising mucus. They will then remove the catfish from the spear, pass the spear along and rush to the vat to drop the fish in. The next one will be 10x bigger.
+
+Once 3 fishes have been caught, 4 tentacles reach out from around the reflection of the moon and latch onto 4 protrusions of the cave, and the Entity pulls itself out of the water. The final boss fight begins.
+
+Once this final part of the ritual is complete, the Entity itself will walk through the portal.
+
+On combat-focused systems, this is the hard version of the boss fight:
+* For Pathfinder 2e, an algollthu Master is brought into the room
+* For D&D 5e: An Aboleth comes through.
+
+== Locations with Fights ==
+
+Only use these if you're running on a combat focused system, such as D&D or Pathfinder.
+
+=== Lighthouse ===
+
+The top of the lighthouse has a couple of Homunculi protecting it. They are on the top room, which is entered through a trapdoor closed on the outside.
+
+=== Church basement ===
+
+On the days preceeding the lunar eclipse, players can see the scale model of the island on the table. There are 3 homunculi hidden in the shadows of the basement, and will attack if anyone tries to mess with it.
+
+On the night of the eclipse, the homunculi are just hanging there, stopping anyone from entering.
+
+== The NPCs ==
+
+=== Tavern Keep: Human ===
+
+Name: Christine
+
+Only person in the city who hasn't gone under the spell of the Aboleth because he abhores fish. She is concerned about the skin disease [1] that seems to be spreading around town.
+
+She is not from the town, but rather moved in when he got the chance to buy the hotel/tavern for cheap. Regrets it, but it pays the bills and no one would buy it.
+
+People on the city have always felt kinda off, very focused on their own culture and thing, but recently things got even weirder. People stopped chit chatting around during dinner, they became more mechanical, even old Jonas lost his pipe!
+
+=== Mayor Alan: Human ===
+
+Name: Alan Stewart
+
+Short and stout, has a big bushy beard and a big beer belly
+
+Alan is a self centered rich prick. He was the one who called for help, but it wasn't to "help the city", it was to help him because he started to feel the effects, though he wont admit it until he is sure there is a cure. He started to get scales on his beer belly and is feeling the compulsion to go to the church help the ritual. If the players play their cards right in the negotiation, they might coax him into talking about his nightmares and symptoms early.
+
+If the players can convince the mayor to show the symptoms, players can learn some things about the "disease", it will feel like a snake shedding skin and fish scales underneath, and he can talk about the compulsion to going to church and to the lighthouse he's been feeling.
+
+=== Bar Patron: Human ===
+
+Names: Kevin, Andrew, Sasha, Riley, Tiler, Alice
+
+The patrons will be chatting about the "big project", which is the model of the cave, which is being built in the church. They are somewhat gone into the cult mentality, and don't really notice the effects of the "disease". they aren't bothered by the hair loss anymore.
+
+=== Simone Giertz: Human ===
+
+The inventor that was responsible for maintaining the mechanism of the lighthouse working. Her work area has blueprints spread all over, showing the mechanism behind the big lighthouse, as well as miniature versions half built.
+
+She knows that the lighthouses will have to synchronize perfectly, which is why she has the blueprints of the original, and her design is linking a hand cranked spring to the spinning mechanism.
+
+=== Mary: Homunculus ===
+
+The nurse that used to care for the medical clinic, she is found in the small clinic at almost all hours of the day, except for dinner and church time.
+ Her office is always full with someone who hurt themselves in the previous night, some with carrying the logs to the lighthouse, others with digging out the cave for the ritual.
+ 
+Mary will vehemently deny that any plague is happening, but will complain that the new hobbies of the town folk means the clinic should get more funding, as she is overrun with the amount of hurt people
+
+=== Father Damian: Homunculus ===
+
+His routine has him mostly in the church. Early morning he can be seen sitting down in the pews, then he disappears into the basement and returns after lunch, pacing front and back or pretending to write ona notebook.
+
+He will talk in simple terms about the sermon, explaining:
+* They are worshipping the one true god, who is close to visiting them.
+* There is an increase amount of mass because they are preparing for a special celebration
+* Only the people who intimately feel the calling can help with the preparations but all will feel the celebration;
+
+=== Jonas Wake: Homunculus ===
+
+1,80m 50-something old man with short brown hair and a nasty scar on the left side of his mouth, and many small scars on his fingers.
+
+As all homunculus, he acts very robotically, never initiates conversation and replies completely emotionless when spoken to. He also retains some semblance of a rotine, as follows:
+* by sunrise: Jonas leaves his house and goes to the well at the center of the city,  from where he gets his fish.
+* After collecting the fish, he goes to his stand on the fish market. He leaves the fishes on the counter and stands silently staring forward
+* by mid afternoon, he removes fishes if there is any remaining and throws them on the sea
+* After getting rid of the rotten fish, he wanders around the center of town until dinner time
+* At dinner time, he goes to the tavern, orders a bowl of soup of the day and a beer, downs them with no emotion, then pays and heads home
+
+== The Enemies ==
+
+=== Cult Leader ===
+
+Name: Jonas Wake
+
+He is too far gone. The cult leader was the first person to eat the fishes. There is a perfect homunculus of him walking around the city, and he has completely turned into a Fish-person.
+
+Jonas can only be found in the deepest part of the dungeon. The back of his head is connected at all times to the larva, where he receives direct instructions on the ritual that will be performed. Players are likely to only interact with him as the final boss (if the manage to stop ritual 3) or as an underling for the Aboleth.
+
+
+In D&D 5e, Jonas controlled by the Aboleth larva will use the statblock of a Kuo-toa Archpriest.
+If the chord tying Jonas to the Aboleth spawn is cut, Jonas will instead be able to take the attack actions of the Archpriest, while the spawn will be able to cast spells up to 3rd level.
+
+=== Father Damian ===
+
+One of the main cultists performing the ritual,
+
+=== Homunculus ===
+
+Using the base stat of the reduced-threat Flesh Golem. However, the damage immunities are changed to resistances, and Beserk triggering when HP goes below 25 HP.
