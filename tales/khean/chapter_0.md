@@ -353,3 +353,53 @@ Even Ulrich, who was a good few feet away still, stumbled as he yelled for Killi
 "Because", you could hear a slight exhaustion from running for so long, "whoever is called by one of the artifacts will always be part of the guild. We were hoping that one of these days a recruit would find it, but that isn't the only way to enter." Killian was lost in thought for some time. Only when they made it back to the clearing did Ulrich continue the conversation, "Oh, yeah, and I think this means you're in my squad. Relic users are supposed to always stay together." Ulrich smiled tapping his belt, then glanced at Roy's gauntlets. "That's how we ensure they don't get lost." the smile faded "that means I failed as much as your father, that day."
 
 Hours later, back in his office, Ulrich looked at the official letter from the King's royal advisor. It read: "To whom it may concern, we, the royal court, formally request that all adventurers within your rank present themselves to the king's court at your earliest convenience. We have reason to believe that, although a force for good, such powerful people may not be left to their own devices, lest the populace be left to deal with the consequences." Ulrich sighed. "Just as I thought that I was finally going to get somewhere."
+
+### Part 3
+
+"Where do you think this one came from?" Killian gestured towards the bag of sustaining that contained the recently decapitated spiky head dangling from the back of the saddle.
+
+"I Heard there is some pretty messed up stuff on the other side of Fasumer" Roy chimed in. "It does look like a huge humanoid porcupine, if you squint"
+
+"Of course you would, that's all that the people in Faswerg talk about!" Killian mocked back. "But I don't think a land of huge animals could ever exist anywhere. Besides, we don't even know if there IS land on the other side of the sea."
+
+"It does exist" Captain Ulrich finally broke his silence. "There are enough sailors in Cynesel that will tell you of that land, and of the beautiful savannahs over yonder." He laughed to himself "just don't trust them when they're drunk, or they'll tell you of the hairy men as strong as an Adventurer and as dumb as an elephant."
+
+"Still, huge animals? Spiders the size of people? I'll believe it when I see it."
+
+"Says the guy who trained his whole life to fight huge humans. No, sorry 'giants'"
+
+"You know what... fair point. I'll believe it when I see a guild of highly skilled fighters training to defeat them."
+
+Ulrich shook his head at Killian's last remark and went back to concentrating on the report he'd need to do later. Killian was right that there is something off about this mark. The captain would need to have a chat with his friend once the ride was over.
+
+Back in the capital, it was time to break tradition, "You guys go first to the pub this time," Ulrich instructed, "this report is gonna be more complicated than usual, and I don't think Lyle would enjoy being left to dry"
+
+"You know you can just go easier on the cauim, right? You don't gotta follow us for every round." Killian tried teasing, but the captain didn't budge. "Well, I guess I'll see you tomorrow, then."
+
+"Will you show up, or do I just leave when Lyle comes around?" Roy asked Ulrich.
+
+"Feel free to stick around, but if I don't show up in a full round from you, you should probably go home."
+
+Roy nodded, then turned to Killian and said "King's inn in 15 minutes, you owe me a round if you're late again." and both recruits set to the showers, as Ulrich went to the captain's offices.
+
+At the pub, both men were pensive over their glasses. "What do you think is so different this time around?" Roy asked.
+
+"I think its the place where we fought it." Killian said. Then, seeing the puzzled look on Roy's face, he continued "think about it. Every other time some monstrosity was terrorizing a place, it was either near a port or some ancient cave. You could see where the explorers may have woken up the thing. This time it was just standing there in the farm."
+
+"You're right", Roy said slowly, "not even a hole in the ground, just kilometers of pinhao trees everywhere, and these fiends shooting at us."
+
+"Exactly! I think things are getting worse." Killian had another sip of his drink with a somber face, "I don't know how the king lets those adventurers just go around and wake up monsters for us to clean up. They should at least get a few of us to tag along."
+
+"Yeah, but I mean... rumor has it that that Elmaer was working for the king, and all his expeditions got denied. He'd get relics with mentions of land past Warmer, and nothing. Past defmer, nothing." Roy's eyes glimmered just a bit "He got a full thing talking about a war with people from beyond Fasumer, but no, the king wouldn't let Elmaer sail at all."
+
+"Can  you blame him, though? Do you see the shit that is attacking our beaches?"
+
+"Sure, but no one is getting seriously hurt, are they? Also, if the king sent the soldiers along, that wouldn't happen now would it?"
+
+"Or the people beyond Fasumer would think we're back for war 2"
+
+Roy had no reply for this one. Both men sipped their drinks. "Anyway, there's also been a pretty noticeable increase in the amount of giants seen close to Zendbah. I don't know if the explorers are directly involved, but this is a problem."
+
+"Hi boys!" The sweet voice of Lyle came from just beyond the table. "No Ulrich today?" She gave Killian a quick kiss.
+
+"No. He had to stay behind and finish some report. I'll tell you over dinner, you ready?" Killian finished his drink as Lyle nodded
